@@ -1,0 +1,17 @@
+﻿* {
+    padding:0;
+    margin:0;
+}
+.container-fluid {
+    background-color:green;
+}
+
+.container-fluid ul.nav li a {
+    color:white;
+}
+#translate {
+    margin-top: 20px;
+    width:130px;
+    height: 240px;
+    border: 1px solid silver;
+}
