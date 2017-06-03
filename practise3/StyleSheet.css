@@ -15,3 +15,7 @@
     height: 240px;
     border: 1px solid silver;
 }
+
+.row {
+    background-color: red;
+}
